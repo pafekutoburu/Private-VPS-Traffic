@@ -1,4 +1,4 @@
-#!name=⏳ 私人 VPS 流量
+#!name=🟦 私人 VPS 流量 ⏳
 #!desc=通过 AnyTLS 节点读取 VPS 本地统计，显示收发流量、套餐余量、重置时间和运行时长。
 #!arguments=POLICY:Private-VPS-AnyTLS
 #!requirement=CORE_VERSION>=20
